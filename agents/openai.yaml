@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCC Image2"
+  short_description: "固定通过 OpenCC gpt-image-2 生成和编辑图片"
+  default_prompt: "Use $opencc-image2 to generate this image through the configured OpenCC provider."
